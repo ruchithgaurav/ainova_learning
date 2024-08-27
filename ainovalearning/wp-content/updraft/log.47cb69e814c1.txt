@@ -1,0 +1,222 @@
+0000.002 (0) Opened log file at time: Mon, 26 Aug 2024 09:15:25 +0000 on http://localhost/wordpress
+0000.103 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.4 WP: 6.6.1 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-9JMUTQ8B 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 45.2M | 48M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.302 (0) Free space on disk containing Updraft's temporary directory: 68096.5 MB
+0000.455 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.516 (0) Semaphore (fd, wp_options) being initialised
+0000.641 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.897 (0) Set semaphore last lock (fd) time to 2024-08-26 09:15:25
+0000.965 (0) Semaphore lock (fd) complete
+0001.098 (0) Backup run: resumption=0, nonce=47cb69e814c1, file_nonce=47cb69e814c1 begun at=1724663725 (1s ago), job type=backup
+0001.562 (0) Scheduling a resumption (1) after 300 seconds (1724664026) in case this run gets aborted
+0002.117 (0) Checking if we have a zip executable available
+0002.327 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0002.425 (0) Creation of backups of directories: beginning
+0002.628 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.787 (0) Total entities for the zip file: 406 directories, 2216 files (0 skipped as non-modified), 39.1 MB
+0008.855 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 40077.6 KB, split: 409600 KB)
+0009.150 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0009.361 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.636 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0009.833 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.046 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0010.199 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0010.360 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0010.560 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0010.817 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0011.038 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0011.219 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0011.414 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0011.618 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0011.803 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0011.992 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0012.217 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0012.460 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0012.692 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0012.938 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0013.162 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0013.394 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0013.612 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0141.914 (0) Creating zip file manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.list-temp.tmp)
+0142.098 (0) Successfully created zip file manifest (size: 198190)
+0142.580 (0) Created plugins zip (0) - 11624 KB in 139.9 s (83.1 KB/s) (sha1: a7bc15186312018cb55a19afc2e83b2416426588, sha256: 1e0e6193919b1fdae199e91fbae79316b9fd39aeb9acf5e7854d5b10325dcf41)
+0142.747 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0142.784 (0) No remote despatch: user chose no remote backup service
+0142.880 (0) Recording as successfully uploaded: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip
+0142.957 (0) Deleting zip manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip.list.tmp)
+0143.051 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0143.092 (0) Number of backup sets in history: 0; groups (db): 1
+0143.127 (0) Number of backup sets in history: 0; groups (files): 1
+0143.168 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0143.548 (0) Beginning creation of dump of themes (split every: 400 MB)
+0145.083 (0) Total entities for the zip file: 156 directories, 967 files (0 skipped as non-modified), 29.4 MB
+0145.149 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 30078.2 KB, split: 409600 KB)
+0145.330 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0145.521 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0145.708 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0145.903 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0146.150 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0146.340 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0146.541 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0146.790 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0147.039 (0) Zip: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0251.967 (0) Creating zip file manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.list-temp.tmp)
+0252.095 (0) Successfully created zip file manifest (size: 61881)
+0253.611 (0) Created themes zip (0) - 22334.3 KB in 110 s (203.1 KB/s) (sha1: 7202452ce38749f7702a16ad2c4a67237668d386, sha256: 089ffbb98a15b615bc9bef950ccfc3411b228562ad174e5c120b2e64ba956d93)
+0253.887 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0253.932 (0) No remote despatch: user chose no remote backup service
+0253.976 (0) Recording as successfully uploaded: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip
+0254.076 (0) Deleting zip manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip.list.tmp)
+0254.186 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0254.266 (0) Number of backup sets in history: 0; groups (db): 1
+0254.308 (0) Number of backup sets in history: 0; groups (files): 1
+0254.353 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0254.734 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0254.773 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0254.811 (0) finding files: 2024: adding to list (1)
+0254.851 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0254.953 (0) Total entities for the zip file: 2 directories, 11 files (0 skipped as non-modified), 0.7 MB
+0255.005 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 709.3 KB, split: 409600 KB)
+0255.851 (0) Creating zip file manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-uploads.zip.list-temp.tmp)
+0255.922 (0) Successfully created zip file manifest (size: 656)
+0256.168 (0) Created uploads zip (0) - 642.1 KB in 1.2 s (524.4 KB/s) (sha1: 33e429e750f193475e68f17cbcab03ef838ef56b, sha256: 0e505caeb4d2e205939f17bc5f3800564ffdf116a8fe75098101bead0dc6465e)
+0256.322 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0256.361 (0) No remote despatch: user chose no remote backup service
+0256.479 (0) Recording as successfully uploaded: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-uploads.zip
+0256.755 (0) Deleting zip manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-uploads.zip.list.tmp)
+0256.865 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0256.922 (0) Number of backup sets in history: 0; groups (db): 1
+0256.987 (0) Number of backup sets in history: 0; groups (files): 1
+0257.025 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0257.171 (0) No backup of mu-plugins: excluded by user's options
+0257.286 (0) Beginning backup of other directories found in the content directory (index: 0)
+0257.325 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0257.363 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0257.402 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0257.452 (0) finding files: fonts: adding to list (1)
+0257.489 (0) finding files: index.php: adding to list (2)
+0257.529 (0) finding files: plugins: skipping: this is the plugins directory
+0257.584 (0) finding files: themes: skipping: this is the themes directory
+0257.623 (0) finding files: updraft: skipping: this is the updraft directory
+0257.661 (0) finding files: upgrade: skipping: excluded by options
+0257.700 (0) finding files: uploads: skipping: this is the uploads directory
+0258.239 (0) Total entities for the zip file: 3 directories, 36 files (0 skipped as non-modified), 0.3 MB
+0258.315 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 316.3 KB, split: 409600 KB)
+0260.255 (0) The scheduled resumption is within 45 seconds - will reschedule
+0260.363 (0) Rescheduling resumption 1: moving to 345 seconds from now (1724664330)
+0260.474 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0260.535 (0) Creating zip file manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-others.zip.list-temp.tmp)
+0260.613 (0) Successfully created zip file manifest (size: 2069)
+0260.999 (0) Created others zip (0) - 304.2 KB in 2.9 s (104.1 KB/s) (sha1: a6a6bbe8f34a317a20fac147934ea69f443266f7, sha256: c638099ef2fe3ed837e1251f42f28ad2443e6c6c7af82f2562d47b5da5bc12bd)
+0261.248 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0261.288 (0) No remote despatch: user chose no remote backup service
+0261.338 (0) Recording as successfully uploaded: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-others.zip
+0261.443 (0) Deleting zip manifest (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-others.zip.list.tmp)
+0261.520 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0261.561 (0) Number of backup sets in history: 0; groups (db): 1
+0261.625 (0) Number of backup sets in history: 0; groups (files): 1
+0261.664 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0262.157 (0) Saving backup status to database (elements: 8)
+0262.329 (0) Beginning creation of database dump (WordPress DB)
+0262.404 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0262.516 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+0265.918 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1451 bytes total)
+0265.993 (0) Working binary mysqldump found: "C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe"
+0266.641 (0) Table wp_options: Total expected rows (via COUNT): 214
+0266.790 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0266.950 (0) Table wp_options: Rows added in this batch (next record: 750): 210 (uncompressed bytes in this segment=306096) in 0.59 seconds
+0267.152 (0) Table wp_options: finishing file(s) (2, 70.1 KB)
+0267.312 (0) Table wp_users: Total expected rows (via COUNT): 1
+0267.371 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0267.485 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1167) in 0.22 seconds
+0267.705 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0268.120 (0) Table wp_usermeta: Total expected rows (via COUNT): 21
+0268.189 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0268.234 (0) Table wp_usermeta: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=2188) in 0.33 seconds
+0268.454 (0) Table wp_usermeta: finishing file(s) (2, 1.1 KB)
+0268.683 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0268.800 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.24 seconds
+0269.091 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0269.239 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0269.293 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0269.373 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1885) in 0.19 seconds
+0269.510 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0269.997 (0) Table wp_links: Total expected rows (via COUNT): 0
+0270.205 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.35 seconds
+0270.385 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0270.846 (0) Table wp_postmeta: Total expected rows (via COUNT): 156
+0270.946 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0271.063 (0) Table wp_postmeta: Rows added in this batch (next record: 158): 156 (uncompressed bytes in this segment=13421) in 0.47 seconds
+0271.347 (0) Table wp_postmeta: finishing file(s) (2, 2.2 KB)
+0271.910 (0) Table wp_posts: Total expected rows (via COUNT): 151
+0272.042 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0272.363 (0) Table wp_posts: Rows added in this batch (next record: 155): 151 (uncompressed bytes in this segment=2191859) in 0.94 seconds
+0272.629 (0) Table wp_posts: finishing file(s) (2, 132.7 KB)
+0272.774 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0272.879 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 11 (uncompressed bytes in this segment=823) in 0.15 seconds
+0273.061 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0273.483 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 6
+0273.534 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0273.614 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1039) in 0.38 seconds
+0273.829 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0274.454 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0274.598 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.27 seconds
+0274.835 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0275.306 (0) Table wp_terms: Total expected rows (via COUNT): 6
+0275.350 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0275.419 (0) Table wp_terms: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=867) in 0.20 seconds
+0275.554 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0275.595 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/updraft/backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db.gz (line 1925, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\backup.php)
+0275.635 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_options.table.tmpr751.gz (1/12/fopen): adding to final database dump
+0275.694 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_options.table.gz (2/12/fopen): adding to final database dump
+0275.728 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_users.table.tmpr2.gz (3/12/fopen): adding to final database dump
+0275.761 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_users.table.gz (4/12/fopen): adding to final database dump
+0275.795 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_usermeta.table.tmpr22.gz (5/12/fopen): adding to final database dump
+0275.874 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_usermeta.table.gz (6/12/fopen): adding to final database dump
+0275.983 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_commentmeta.table.tmpr0.gz (7/12/fopen): adding to final database dump
+0276.079 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_commentmeta.table.gz (8/12/fopen): adding to final database dump
+0276.173 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_comments.table.tmpr2.gz (9/12/fopen): adding to final database dump
+0276.249 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_comments.table.gz (10/12/fopen): adding to final database dump
+0276.407 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_links.table.tmpr0.gz (11/12/fopen): adding to final database dump
+0276.481 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_links.table.gz (12/12/fopen): adding to final database dump
+0276.547 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_postmeta.table.tmpr159.gz (13/12/fopen): adding to final database dump
+0276.603 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_postmeta.table.gz (14/12/fopen): adding to final database dump
+0276.637 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_posts.table.tmpr156.gz (15/12/fopen): adding to final database dump
+0276.684 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_posts.table.gz (16/12/fopen): adding to final database dump
+0276.725 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_term_relationships.table.tmpr100001.gz (17/12/fopen): adding to final database dump
+0276.757 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_term_relationships.table.gz (18/12/fopen): adding to final database dump
+0276.792 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_term_taxonomy.table.tmpr7.gz (19/12/fopen): adding to final database dump
+0276.824 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_term_taxonomy.table.gz (20/12/fopen): adding to final database dump
+0276.880 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_termmeta.table.tmpr0.gz (21/12/fopen): adding to final database dump
+0276.912 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_termmeta.table.gz (22/12/fopen): adding to final database dump
+0276.947 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_terms.table.tmpr7.gz (23/12/fopen): adding to final database dump
+0276.978 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db-table-wp_terms.table.gz (24/12/fopen): adding to final database dump
+0277.352 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db.gz: finished writing out complete database file (210.4 KB)
+0277.920 (0) Total database tables backed up: 12 (backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db.gz, size: 215547, sha1: 01a478b510e55c42494861bbe951e8748eac66e8, sha256: 16f0585be3f1ca79c21bbdd7e78d4c3ed1a98a9e9291214db52c79b5875f3117)
+0278.173 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-plugins.zip: plugins: This file has already been successfully uploaded
+0278.230 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-themes.zip: themes: This file has already been successfully uploaded
+0278.329 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-uploads.zip: uploads: This file has already been successfully uploaded
+0278.450 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-others.zip: others: This file has already been successfully uploaded
+0278.496 (0) backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0278.561 (0) Saving backup history. Total backup size: 34.3 MB
+0278.749 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0279.048 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0279.081 (0) No remote despatch: user chose no remote backup service
+0279.127 (0) Recording as successfully uploaded: backup_2024-08-26-0915_AiNOVA_learning_47cb69e814c1-db.gz
+0279.236 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0279.272 (0) Number of backup sets in history: 1; groups (db): 1
+0279.302 (0) Examining (for databases) backup set with group_id=0, nonce=47cb69e814c1, datestamp=1724663725 (Aug 26 2024 09:15:25)
+0279.402 (0) This backup set is the backup set just made, so will not be deleted.
+0279.403 (0) Number of backup sets in history: 1; groups (files): 1
+0279.514 (0) Examining (for files) backup set with nonce=47cb69e814c1, datestamp=1724663725 (Aug 26 2024 09:15:25)
+0279.514 (0) This backup set is the backup set just made, so will not be deleted.
+0279.591 (0) This backup set is the backup set just made, so will not be deleted.
+0279.592 (0) This backup set is the backup set just made, so will not be deleted.
+0279.592 (0) This backup set is the backup set just made, so will not be deleted.
+0279.592 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0279.624 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0279.770 (0) Resume backup (47cb69e814c1, 0): finish run
+0280.133 (0) Decremented the semaphore (fd) by 1
+0280.277 (0) Semaphore (fd) unlocked
+0280.361 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0280.591 (0) No email will/can be sent - the user has not configured an email address.
+0280.676 (0) The backup succeeded and is now complete

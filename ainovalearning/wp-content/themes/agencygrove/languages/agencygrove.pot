@@ -1,0 +1,583 @@
+# Copyright (C) 2024 agencygrove
+# This file is distributed under the same license as the agencygrove package.
+msgid ""
+msgstr ""
+"Project-Id-Version: agencygrove\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-20 15:10+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../class/admin-info.php:22, ../class/admin-info.php:23
+msgid "AgencyGrove Theme"
+msgstr ""
+
+#: ../functions.php:32, ../patterns/footer.php:14
+msgid "AgencyGrove"
+msgstr ""
+
+#: ../inc/theme-info.php:65
+msgid "Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated support, and theme installation with demo setup. Experience enhanced flexibility and receive dedicated support to effortlessly elevate your website to new heights of excellence. "
+msgstr ""
+
+#: ../inc/theme-info.php:73
+msgid "Pro Live Demo"
+msgstr ""
+
+#: ../inc/theme-info.php:77, ../inc/theme-info.php:113
+msgid "Buy Pro Now"
+msgstr ""
+
+#: ../inc/theme-info.php:81, ../inc/theme-info.php:117
+msgid "Supports"
+msgstr ""
+
+#: ../inc/theme-info.php:89
+msgid "Block-Based Customization"
+msgstr ""
+
+#: ../inc/theme-info.php:90
+msgid "Create and customize website content effortlessly by arranging various blocks such as text, images, and more within the Gutenberg editor, making web design accessible to all skill levels."
+msgstr ""
+
+#: ../inc/theme-info.php:94
+msgid "Responsive Design"
+msgstr ""
+
+#: ../inc/theme-info.php:95
+msgid "Ensure your website looks and functions flawlessly on various devices, from desktops to mobile devices, thanks to the responsive design of Gutenberg themes, providing an exceptional user experience."
+msgstr ""
+
+#: ../inc/theme-info.php:99
+msgid "Fully Gutenberg Compatibility"
+msgstr ""
+
+#: ../inc/theme-info.php:100
+msgid "Enjoy a hassle-free content creation experience as Gutenberg themes are designed to fully integrate with the Gutenberg block editor, allowing you to easily create, edit, and maintain your website’s design within the editor’s environment."
+msgstr ""
+
+#: ../inc/theme-info.php:104
+msgid "24/7 Support"
+msgstr ""
+
+#: ../inc/theme-info.php:105
+msgid "Our dedicated support team is available around the clock to provide assistance, ensuring your website operates smoothly and addressing any technical issues, customization queries, or general inquiries at any time."
+msgstr ""
+
+#: ../inc/theme-info.php:108
+msgid "If you require assistance with theme installation, demo setup, or customization, please feel free to reach out to us at support@themegrove.com or thmegrove@gmail.com. We are here to help!"
+msgstr ""
+
+#: ../inc/theme-notice.php:2, ../inc/theme-notice.php:5
+msgid "AgencyGrove Pro"
+msgstr ""
+
+#: ../inc/theme-notice.php:3
+msgid "Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated support, and theme installation with demo setup. Experience enhanced flexibility and receive dedicated support to effortlessly elevate your website to new heights of excellence."
+msgstr ""
+
+#: ../inc/theme-notice.php:6
+msgid "Theme Info"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about-second.php:15, ../patterns/about-second.php:55, ../patterns/about.php:52, ../patterns/footer.php:49
+msgid "About Us"
+msgstr ""
+
+#: ../patterns/about-second.php:19, ../patterns/about-second.php:59
+msgid "About AgencyGrove"
+msgstr ""
+
+#: ../patterns/about-second.php:23, ../patterns/about-second.php:63, ../patterns/about.php:60, ../patterns/portfolio.php:22
+msgid "In auctor lobortis lacus. Donec vitae sapien ut libero venenatis faucibus. Curabitur at lacus ac velit ornare lobortis. In consectetuer turpis ut velit. Nunc nonummy metus."
+msgstr ""
+
+#: ../patterns/about-second.php:27, ../patterns/about-second.php:67, ../patterns/about.php:64, ../patterns/portfolio.php:26
+msgid "Praesent nonummy mi in odio. Morbi mollis tellus ac sapien. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Nullam dictum felis eu pede mollis pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos."
+msgstr ""
+
+#: ../patterns/about-second.php:32, ../patterns/about-second.php:72, ../patterns/about.php:73, ../patterns/portfolio.php:31
+msgid "Read More"
+msgstr ""
+
+#: ../patterns/about.php:19, ../patterns/counter.php:13
+msgid "200"
+msgstr ""
+
+#: ../patterns/about.php:19, ../patterns/about.php:29, ../patterns/about.php:39
+msgid "+"
+msgstr ""
+
+#: ../patterns/about.php:23, ../patterns/counter.php:17
+msgid "Team Member"
+msgstr ""
+
+#: ../patterns/about.php:29, ../patterns/counter.php:23
+msgid "800"
+msgstr ""
+
+#: ../patterns/about.php:33, ../patterns/counter.php:27
+msgid "Clients Review"
+msgstr ""
+
+#: ../patterns/about.php:39, ../patterns/counter.php:33
+msgid "90"
+msgstr ""
+
+#: ../patterns/about.php:43, ../patterns/counter.php:37
+msgid "Completed Projects"
+msgstr ""
+
+#: ../patterns/about.php:56
+msgid "Why"
+msgstr ""
+
+#: ../patterns/about.php:56
+msgid "Choose"
+msgstr ""
+
+#: ../patterns/about.php:56
+msgid "Us?"
+msgstr ""
+
+#: ../patterns/about.php:68, ../patterns/contact.php:22
+msgid "Fusce convallis metus id felis luctus adipiscing. Quisque rutrum. Aliquam erat volutpat. Cras id dui. In hac habitasse platea dictumst."
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid " No products were found matching your selection. "
+msgstr ""
+
+#: ../patterns/archive.php:48, ../patterns/blog-left.php:58, ../patterns/blog-right.php:55, ../patterns/post.php:51, ../patterns/search.php:54
+msgid "No posts found"
+msgstr ""
+
+#: ../patterns/articles.php:12
+msgid "Latest Articles"
+msgstr ""
+
+#: ../patterns/articles.php:16
+msgid "Let's Checkout Our All"
+msgstr ""
+
+#: ../patterns/articles.php:16
+msgid "Latest News"
+msgstr ""
+
+#: ../patterns/articles.php:54
+msgid "View All Article"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:18, ../patterns/header.php:18
+msgid "Suscribe"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:26
+msgid "Plugging Great Ideas Into"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:26, ../patterns/banner.php:12
+msgid "Your Brand"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:30, ../patterns/banner.php:16
+msgid "Fusce egestas elit eget lorem. Praesent nec nisl a purus blandit viverra. Praesent egestas neque eu enim. In ac felis quis tortor malesuada pretium. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc."
+msgstr ""
+
+#: ../patterns/banner-with-header.php:35, ../patterns/banner.php:21
+msgid "Get a Quote"
+msgstr ""
+
+#: ../patterns/banner-with-header.php:39, ../patterns/banner.php:25
+msgid "Learn More"
+msgstr ""
+
+#: ../patterns/banner.php:12
+msgid "Plugging Great Ideas Into "
+msgstr ""
+
+#: ../patterns/blog-left.php:9
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: ../patterns/blog-right.php:10
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/contact.php:14
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/contact.php:18
+msgid "Get in Touch With Us"
+msgstr ""
+
+#: ../patterns/contact.php:26
+msgid "+01-(123)-456789"
+msgstr ""
+
+#: ../patterns/contact.php:30
+msgid "youremail@example.com"
+msgstr ""
+
+#: ../patterns/contact.php:34
+msgid "123, Street 25, NSW Australia"
+msgstr ""
+
+#: ../patterns/contact.php:39
+msgid "Call US Now !"
+msgstr ""
+
+#: ../patterns/counter.php:43
+msgid "120K"
+msgstr ""
+
+#: ../patterns/counter.php:47
+msgid "Line Of Codes"
+msgstr ""
+
+#: ../patterns/footer.php:22
+msgid "Pellentesque ut neque. Vestibulum facilisis, purus nec pulvinar iaculis, ligula mi congue nunc, vitae euismod ligula urna in dolor. In ut quam vitae odio lacinia tincidunt. Vestibulum dapibus nunc ac augue. Sed cursus turpis vitae tortor."
+msgstr ""
+
+#: ../patterns/footer.php:28
+msgid "Quick Links"
+msgstr ""
+
+#: ../patterns/footer.php:37
+msgid "Home"
+msgstr ""
+
+#: ../patterns/footer.php:41, ../patterns/services.php:16
+msgid "Services"
+msgstr ""
+
+#: ../patterns/footer.php:45
+msgid "Pages"
+msgstr ""
+
+#: ../patterns/footer.php:53
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../patterns/footer.php:60
+msgid "Get In Touch"
+msgstr ""
+
+#: ../patterns/footer.php:73
+msgid "Old City Street, USA, 123 New York 35035"
+msgstr ""
+
+#: ../patterns/footer.php:83
+msgid "(+1)-123-456-789"
+msgstr ""
+
+#: ../patterns/footer.php:93
+msgid "Example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:100
+msgid "Suscribe To News"
+msgstr ""
+
+#: ../patterns/footer.php:108
+msgid "Add your form Shortcode"
+msgstr ""
+
+#: ../patterns/footer.php:117
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:117
+msgid "WordPress"
+msgstr ""
+
+#: ../patterns/footer.php:121
+msgid "Developed By"
+msgstr ""
+
+#: ../patterns/footer.php:121
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/portfolio-second.php:12
+msgid "Our Best"
+msgstr ""
+
+#: ../patterns/portfolio-second.php:12
+msgid "Projects"
+msgstr ""
+
+#: ../patterns/portfolio.php:14
+msgid "Portfolio"
+msgstr ""
+
+#: ../patterns/portfolio.php:18
+msgid "We Have Done Lot's Of"
+msgstr ""
+
+#: ../patterns/portfolio.php:18
+msgid "Project's"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:14
+msgid "Price"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:14, ../patterns/pricing-plan.php:18
+msgid "Plan"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:18
+msgid "Choose Your Suitable "
+msgstr ""
+
+#: ../patterns/pricing-plan.php:26
+msgid "Regural"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:30
+msgid "$99.99/"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:30, ../patterns/pricing-plan.php:126
+msgid "Year"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:34, ../patterns/pricing-plan.php:82, ../patterns/pricing-plan.php:130
+msgid "Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Cras id dui. Vestibulum purus quam, scelerisque ..."
+msgstr ""
+
+#: ../patterns/pricing-plan.php:42, ../patterns/pricing-plan.php:90, ../patterns/pricing-plan.php:138
+msgid "Features first"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:46, ../patterns/pricing-plan.php:94, ../patterns/pricing-plan.php:142
+msgid "Feature Second"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:50, ../patterns/pricing-plan.php:98
+msgid "Feature Third"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:54, ../patterns/pricing-plan.php:102, ../patterns/pricing-plan.php:150
+msgid "Feature Fourth"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:58, ../patterns/pricing-plan.php:106, ../patterns/pricing-plan.php:154
+msgid "Feature Fifth"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:65, ../patterns/pricing-plan.php:113, ../patterns/pricing-plan.php:161
+msgid "Choose This Plan"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:74
+msgid "Standard"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:78
+msgid "$199.99/"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:78
+msgid "year"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:122
+msgid "Enterprise"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:126
+msgid "$599.99/"
+msgstr ""
+
+#: ../patterns/pricing-plan.php:146
+msgid "EnterpFeature Thirdrise"
+msgstr ""
+
+#: ../patterns/services.php:12
+msgid "Premium Services"
+msgstr ""
+
+#: ../patterns/services.php:16
+msgid "That Is The Best Service "
+msgstr ""
+
+#: ../patterns/services.php:16
+msgid "Determine The "
+msgstr ""
+
+#: ../patterns/services.php:16
+msgid "You Need"
+msgstr ""
+
+#: ../patterns/services.php:30
+msgid "Web Development"
+msgstr ""
+
+#: ../patterns/services.php:34, ../patterns/services.php:52, ../patterns/services.php:70, ../patterns/services.php:90, ../patterns/services.php:108, ../patterns/services.php:126
+msgid "Nullam dictum felis eu pede mollis pretium. Vestibulum suscipit nulla quis orci. Donec interdum, metus et hendrerit aliquet, dolor diam sagittis ligula, eget egestas libero turpis vel mi. Cras varius."
+msgstr ""
+
+#: ../patterns/services.php:48
+msgid "UI/UX Design"
+msgstr ""
+
+#: ../patterns/services.php:66
+msgid "App Development"
+msgstr ""
+
+#: ../patterns/services.php:86
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: ../patterns/services.php:104
+msgid "Graphic Design"
+msgstr ""
+
+#: ../patterns/services.php:122
+msgid "Social Media management"
+msgstr ""
+
+#: ../patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:12
+msgid "Our Team"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Experiance"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Our Professionals"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Team"
+msgstr ""
+
+#: ../patterns/team.php:28
+msgid "MD Rafi"
+msgstr ""
+
+#: ../patterns/team.php:32
+msgid "App Developer"
+msgstr ""
+
+#: ../patterns/team.php:32
+msgid "CEO"
+msgstr ""
+
+#: ../patterns/team.php:36, ../patterns/team.php:64, ../patterns/team.php:92, ../patterns/team.php:120
+msgid "Nullam dictum felis eu pede mollis pretium. Vestibulum suscipit nulla quis orci."
+msgstr ""
+
+#: ../patterns/team.php:56
+msgid "Mehedi Hassan"
+msgstr ""
+
+#: ../patterns/team.php:60
+msgid "Python Developer"
+msgstr ""
+
+#: ../patterns/team.php:60
+msgid "CTO"
+msgstr ""
+
+#: ../patterns/team.php:84
+msgid "Sanjam Patel"
+msgstr ""
+
+#: ../patterns/team.php:88
+msgid "SEO/SEM"
+msgstr ""
+
+#: ../patterns/team.php:88
+msgid "CFO"
+msgstr ""
+
+#: ../patterns/team.php:112
+msgid "Nayem Hossain"
+msgstr ""
+
+#: ../patterns/team.php:116
+msgid "Web Developer"
+msgstr ""
+
+#: ../patterns/team.php:116
+msgid "HR Manager"
+msgstr ""
+
+#: ../patterns/testimonials.php:12
+msgid "Testimonials"
+msgstr ""
+
+#: ../patterns/testimonials.php:16
+msgid "What Our "
+msgstr ""
+
+#: ../patterns/testimonials.php:16
+msgid "Clients"
+msgstr ""
+
+#: ../patterns/testimonials.php:16
+msgid "Say?"
+msgstr ""
+
+#: ../patterns/testimonials.php:29, ../patterns/testimonials.php:51, ../patterns/testimonials.php:73
+msgid "Rakibul Hassan"
+msgstr ""
+
+#: ../patterns/testimonials.php:37, ../patterns/testimonials.php:59, ../patterns/testimonials.php:81
+msgid "Vestibulum eu odio. Nam eget dui. Nullam tincidunt adipiscing enim. Praesent metus tellus, elementum eu, semper a, adipiscing nec, purus. Nunc nonummy metus."
+msgstr ""

@@ -1,0 +1,72 @@
+# Copyright (C) 2024 Themegrove
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BizGrove 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bizgrove\n"
+"POT-Creation-Date: 2024-08-04 17:09:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:32
+msgid "BizGrove"
+msgstr ""
+
+#: patterns/archive-product.php:55
+msgid " No products were found matching your selection. "
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "BizGrove"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrove.com/products/agencygrove/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Welcome to BizGrove, the premier WordPress Full Site Editing theme tailored for businesses, consulting firms, and SEO agencies seeking a standout online presence. Designed with top-notch SEO optimization and seamless compatibility with Gutenberg and WooCommerce, BizGrove enables you to create a dynamic, growth-driving website effortlessly. Its block-based customization and integration with Contact Form 7 provide unparalleled flexibility and functionality, allowing you to showcase your services, engage with clients, and broaden your reach with ease. Discover the perfect harmony of aesthetics and performance with BizGrove, your key to success in the digital world. Demo: https://demos.themegrove.com/bizgrove/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themegrove"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrove.com/"
+msgstr ""
